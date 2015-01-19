@@ -1,0 +1,3 @@
+<settings>
+   <setting label="30000" type="bool" id="usekioskmode" default="true"/>
+</settings>
